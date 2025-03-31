@@ -1,0 +1,8 @@
+---
+vlans:
+  - id: 90
+    name: "VLAN90"
+  - id: 70
+    name: "VLAN70"
+  - id: 80
+    name: "VLAN80"
